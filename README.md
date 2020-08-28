@@ -25,6 +25,11 @@ In order to make direct use of the driver it should suffice to build the driver
 with `make` and to load it with `insmod 88x2bu.ko`. This will allow you
 to use the driver directly without changing your system persistently.
 
+### Update
+
+![Carbon Illustrative Code](https://github.com/GabrielQueirozNunes/DWA-182_Rev-D1/blob/master/carbonIllustrativeCode.png)
+
+
 ## DKMS installation
 
 If you want to have the driver available at startup, it will you convenient to
